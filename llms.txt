@@ -15,8 +15,8 @@
 - Solar energy system service
 
 ## Guides
-- [How to Choose a Denver roofer for Your Home](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/denver-roofer/): Choose a Denver roofer with a clear project plan and practical guidance for your Denver home.
 - [Planning a Roofing Project with a roofer in denver](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/roofer-in-denver/): Plan your next project with a roofer in denver and get clear exterior guidance for your Denver home.
+- [How to Choose a Denver roofer for Your Home](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/denver-roofer/): Choose a Denver roofer with a clear project plan and practical guidance for your Denver home.
 - [Finding the best roofer Denver homeowners can trust](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/best-roofer-denver/): Compare the best roofer Denver homeowners can hire with practical questions for protecting your home in Denver.
 - [How to choose a local roofer Denver homeowners can call](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/local-roofer-denver/): Find a local roofer Denver homeowners can talk with about roof concerns and related exterior needs at home.
 - [How to Choose the best roofer in denver](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/best-roofer-in-denver/): Compare the best roofer in denver for clear project planning and exterior work in Denver, Colorado.
@@ -26,6 +26,9 @@
 - [Find an affordable roofer Denver homeowners can talk to](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/affordable-roofer-denver/): Talk through roof concerns and project scope with an affordable roofer Denver homeowners can contact for exterior work.
 - [Choosing a Roofing contractor Denver homeowners can trust](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/roofing-contractor-denver/): Plan your roof project with a Roofing contractor Denver homeowners can speak with about condition, scope, and next steps.
 
+## Newsroom
+- [Peak To Peak Roofing & Exteriors Releases Denver Roofer Guide](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/news/2026-10-29-peak-to-peak-roofing-exteriors-releases-denver/): Peak To Peak Roofing & Exteriors published a guide for Denver readers looking for a roofer, with a YouTube video, podcast episode and SoundCloud audio. (2026-10-29)
+
 ## Pages
 - [Denver Roofer in Colorado](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/): From roofing to siding and solar, we help Denver homeowners care for the exterior of their homes. Call +1720-740-4325.
 - [About Peak To Peak Roofing & Exteriors](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/about/): About Peak To Peak Roofing & Exteriors, LLC, Denver.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/peak-to-peak-roofing-and-exteriors-llc-denver/news/rss.xml)
 - [Main resource site](https://atlas-pages.localwebsites.chatgpt.site/m/peak-to-peak-roofing-exteriors-llc-denver-roofer-service-areas-b2ba83/embed)
